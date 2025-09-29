@@ -7,7 +7,7 @@ Stop wasting time with manual setup and start coding faster!
 To install this tool globally from npm, run the following command:
 
 ```bash
-npm install -g @your-username/project-quickstart-cli
+npm install -g @somesht/project-quickstart-cli
 
 
 ## Usage
